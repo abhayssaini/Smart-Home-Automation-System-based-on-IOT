@@ -1,4 +1,4 @@
-# Home-Automation-System-based-on-IOT
+# Smart-Home-Automation-System-based-on-IOT
 
 This project is based on Internet Of  Things (IOT) which will be beneficial for the people to automatically operate and manage home appliances like (fans, lights, etc) remotely with the help of web application (Web Page).
 
