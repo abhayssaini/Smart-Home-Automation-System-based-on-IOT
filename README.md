@@ -2,7 +2,7 @@
 
 This project is based on Internet Of  Things (IOT) which will be beneficial for the people to automatically operate and manage home appliances like (fans, lights, etc) remotely with the help of web application (Web Page).
 
-Our purpose in this project is to automate fans depending on the data (presence of  a person and room temperature) received by the sensors for sustainable use of electricity. 
+## Our purpose in this project is to automate fans depending on the data (presence of  a person and room temperature) received by the sensors for sustainable use of electricity. 
 
 
 ## Discussion on Hardware/ Software  tools:-
