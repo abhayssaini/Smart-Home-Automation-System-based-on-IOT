@@ -23,10 +23,7 @@ Our purpose in this project is to automate fans depending on the data (presence 
 
    c. HTML web page: To display the working condition of fan and to display temperature value.
 
-##Conclusion 
-
-The purpose of this project is to analyse the dataset and study the trends of the pandemic and give us good predictive model which will help us to                                                predict the trends of coming week with a high accuracy.                       
-
+                                                              
 ## Contributions:-
 - Himanshu Saini (Embedded Eng.)
 - Priyanka Singh Saini (Embedded Eng.) 
