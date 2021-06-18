@@ -24,6 +24,6 @@ This project is based on Internet Of  Things (IOT) which will be beneficial for 
    c. HTML web page: To display the working condition of fan and to display temperature value.
 
                                                               
-## Contributions:-
+## Guidance:-
 - Himanshu Saini (Embedded Eng.)
 - Priyanka Singh Saini (Embedded Eng.) 
