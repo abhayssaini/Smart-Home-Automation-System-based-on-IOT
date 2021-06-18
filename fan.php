@@ -25,7 +25,7 @@ form{
 }
 
 </style>
-<h1> Home Automation By Priyanka Saini </h1>
+<h1> Home Automation By Abhay Saini </h1>
 <?php
 $file = "temp_file.txt";
 $handle = fopen($file,'r');
